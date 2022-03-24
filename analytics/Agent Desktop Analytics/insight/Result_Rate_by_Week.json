@@ -1,5 +1,5 @@
 {
-  "$id": "c_Agent_Desktop_Result_Rate_by_Week",
+  "$id": "supportAnalytics_Agent_Desktop_Result_Rate_by_Week",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Result Rate by Week",
   "description": "Knowledge Graph Result Rate by Week",

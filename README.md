@@ -1,2 +1,2 @@
 # Support-Analytics-Package
-Collection for support analytics dashboards
+Collection of dashboards purpose built for Support Search

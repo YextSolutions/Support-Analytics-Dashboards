@@ -1,5 +1,5 @@
 {
-  "$id": "c_Help_Site_Click_Through_Rate_by_Week",
+  "$id": "supportAnalytics_Help_Site_Click_Through_Rate_by_Week",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Click Through Rate by Week",
   "description": "Answers Click Through Rate by Week",
